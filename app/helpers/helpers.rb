@@ -6,9 +6,7 @@ end
 
 
 def self.is_logged_in?(session)
-  
-  
-  
+  !!session[:iser_id]
 end 
     
     
