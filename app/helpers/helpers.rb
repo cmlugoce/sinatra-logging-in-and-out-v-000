@@ -5,7 +5,7 @@ class Helpers
 end 
 
 
-def is_loogged_in?
+def is_logged_in?
   
   
   
